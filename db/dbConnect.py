@@ -1,6 +1,5 @@
 import sqlite3
 import pandas as pd
-from fastapi import FastAPI
 
 class Backend:
 
